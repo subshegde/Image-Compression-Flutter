@@ -2,6 +2,11 @@
 
 This Flutter app demonstrates image compression functionality, allowing users to pick an image from their gallery, compress it, and view both the original and compressed images along with their respective sizes. 
 
+# Images
+
+![ImageCompression](https://github.com/user-attachments/assets/c2af3be8-0b30-4a21-b0ea-6a6200e4836a)
+
+
 ## Features
 
 - **Pick an Image**: Users can pick an image from the gallery.
