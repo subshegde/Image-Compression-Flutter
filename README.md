@@ -36,7 +36,11 @@ This Flutter app demonstrates image compression functionality, allowing users to
     Main Content: The selected image is shown in a square format, followed by the size details.
     Floating Button: A floating pink button allows users to pick an image with a camera icon.
 
-# Screenshots
+# Video
+
+https://github.com/user-attachments/assets/6282f08a-04b2-4f4d-bdbe-c76b9c3e15ee
+
+
 
 # Contributing
 
